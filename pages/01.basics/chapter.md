@@ -5,8 +5,7 @@ taxonomy:
 child_type: docs
 ---
 
-### Chapter 1
+### Раздел 1
 
-# Basics
-Загрузка
-Discover the **basic** principles
+# Основы
+Изучаем *основные* принципы работы 
