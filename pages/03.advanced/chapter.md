@@ -1,12 +1,12 @@
 ---
-title: Advanced
+title: Инструкции
 taxonomy:
     category: docs
 child_type: docs
 ---
 
-### Chapter 3
+### Раздел 3
 
-# Advanced
+# Инструкции
 
-Get into the **nitty gritty** with these advanced topics
+Инструкции по использованию цифровых ресурсов кафедры КИК 
