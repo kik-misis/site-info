@@ -11,5 +11,5 @@ child_type: docs
 - [Облачное хранилище файлов](https://files.kik-misis.ru/)
 - Поддержка системы ЭДО moodle:
     - [кафедральная "песочница" moodle](https://study.garpix.com/)
-    - [сервис ковертации банков вопрос из **canvas** в ***moodle**](https://user.lipers24.ru/u/misis.quiz.transform)
+    - [сервис ковертации банков вопрос из **canvas** в **moodle**](https://user.lipers24.ru/u/misis.quiz.transform)
     - [конвертация тестов из markdown в moodle](https://user.lipers24.ru/u/misis.quiz.md-to-moodle)
