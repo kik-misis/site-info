@@ -1,5 +1,5 @@
 ---
-title: Topic 1
+title: Научные направления
 taxonomy:
     category: научная работа
 process:
