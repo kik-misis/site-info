@@ -13,4 +13,4 @@ child_type: docs
     - [конвертация тестов из markdown в moodle](https://user.lipers24.ru/u/misis.quiz.md-to-moodle)
 - Анкеты преподавателей:
     - [Генерация анкет и сводные отчеты по анкетам](http://misis.roz37.ru/simplex/misis/u)
-    - [Ссылки для заполнения анкет преподавателями](https://disk.yandex.ru/i/CPih7OR-8175nQ)
+    - [Ссылки для заполнения анкет преподавателями](https://disk.yandex.ru/i/9ByFGfoAvBtmnw)
