@@ -9,8 +9,8 @@ child_type: docs
 - [Облачное хранилище файлов](https://files.kik-misis.ru/)
 - Поддержка системы ЭДО moodle:
     - [кафедральная "песочница" moodle](https://study.garpix.com/)
-    - [сервис конвертации банков вопрос из **canvas** в **moodle**](https://user.lipers24.ru/u/misis.quiz.transform)
-    - [конвертация тестов из markdown в moodle](https://user.lipers24.ru/u/misis.quiz.md-to-moodle)
+    - [сервис конвертации банков вопрос из **canvas** в **moodle**](http://10.20.39.33:8080/u/misis.quiz.transform)
+    - [конвертация тестов из markdown в moodle](http://10.20.39.33:8080/u/misis.quiz.md-to-moodle)
 - Анкеты преподавателей:
     - [Генерация анкет и сводные отчеты по анкетам](http://misis.roz37.ru/simplex/misis/u)
     - [Ссылки для заполнения анкет преподавателями](https://disk.yandex.ru/i/9ByFGfoAvBtmnw)
