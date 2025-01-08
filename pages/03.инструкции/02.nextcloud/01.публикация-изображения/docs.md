@@ -13,4 +13,4 @@ taxonomy:
 3. [Откройте публичный доступ к изображениям](images/опубликовать-изображение.png)
 4. [Скопируйте ссылку](images/скопировать-ссылку.png)
 
-Ссылка будет выглядеть примерно так: `https://files.kik-misis.ru/s/sBiKZRK369q8GZF`.  Для того, чтобы эту ссылку использовать в html-разметке, добавьте в конце ссылке `/downloads`, чтобы получилось так `https://files.kik-misis.ru/s/sBiKZRK369q8GZF/downloads`
+Ссылка будет выглядеть примерно так: `https://files.kik-misis.ru/s/sBiKZRK369q8GZF`.  Для того, чтобы эту ссылку использовать в html-разметке, добавьте в конце ссылке `/download`, чтобы получилось так `https://files.kik-misis.ru/s/sBiKZRK369q8GZF/download`
