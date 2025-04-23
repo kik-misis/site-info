@@ -13,6 +13,6 @@ child_type: docs
     - [конвертация тестов из markdown в moodle](http://10.20.39.33:8080/u/misis.quiz.md-to-moodle)
 - Анкеты преподавателей:
     - [Генерация анкет и сводные отчеты по анкетам](http://misis.roz37.ru/simplex/misis/u)
-    - [Ссылки для заполнения анкет преподавателями]([https://disk.yandex.ru/i/9ByFGfoAvBtmnw](https://yadi.sk/i/2bWmqCdT62Takg))
+    - [Ссылки для заполнения анкет преподавателями](https://yadi.sk/i/2bWmqCdT62Takg)
 - Мемориальные:
     - [Сайт, посвященный юбилею кафедры (содержит списки выпускников)](https://kik50.ru/) 
